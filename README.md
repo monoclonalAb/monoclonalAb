@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! 👋
+
+My name is Eric Zheng and I am a first year Computer Science student attending the University of Auckland.
+
+<p align="center">
+<a href="https://www.linkedin.com/in/eric-zheng-nz/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
 
 <!--
 **monoclonalAb/monoclonalAb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
