@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-My name is Eric Zheng and I am a first year Computer Science student attending the University of Auckland.
+My name is Eric Zheng and I am a second year Computer Science student attending the University of Auckland.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/eric-zheng-nz/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
